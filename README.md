@@ -14,3 +14,13 @@ Tools Used:
 - CSS
 
 Submitted by: jeereddy rajamohan
+# Task 2 - High Fidelity UI Design
+
+Description:
+Designed a high-fidelity educational platform interface.
+
+Files:
+- index.html
+- style.css
+
+Submitted by: jeereddy rajamohan
