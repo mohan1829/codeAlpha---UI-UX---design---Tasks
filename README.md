@@ -23,4 +23,11 @@ Files:
 - index.html
 - style.css
 
+Tools Used:
+- Figma
+- HTML5
+- visual studio code
+- Git
+- GitHub
+
 Submitted by: jeereddy rajamohan
