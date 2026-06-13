@@ -1,2 +1,16 @@
-# codeAlpha---UI-UX---design---Tasks
-wireframing &amp; low-fidelity design  for educational platform , high fidelity UI design , and  UX case study for flipkart.
+# CodeAlpha UI/UX Design Internship
+
+## Task 1: Educational App Wireframe
+
+Description:
+Created a low-fidelity wireframe for an educational platform.
+
+Files:
+- index.html
+- style.css
+
+Tools Used:
+- HTML
+- CSS
+
+Submitted by: Mohan
